@@ -1,0 +1,64 @@
+.ContainerPadre{
+    width: 600px; ;
+    height: 500px; ;
+    background-color:powderblue ;
+    /* a todos los lados le aplica 10px*/
+    margin: 10px;
+         /* top rigth bottom left */
+    margin: 10px 10px 10px 10px;
+    margin-top: 10;
+    margin-right: 20;
+    margin-bottom: 10;
+    margin-left: 20;
+
+    padding: 10px;
+     /* top rigth bottom left */
+    padding:10px 20px 20px 10px;
+
+    padding top: 10px;
+    padding bottom: 10px;
+    padding right: 20px;
+    padding left: 10px;  
+}
+
+.ContainerPadre{
+    width: 500px;
+    height: 500px;
+    background-color: black;
+    margin: 15px;
+    padding: 10px;
+}
+.img1{
+    width: 200px;
+    height: 200px;
+    color: aqua;
+    background-color: beige;
+    margin: 10px;
+    padding: 10px;
+}
+
+.img2{
+    width: 200px;
+    height: 200px;
+    color: blue;
+    background-color: aqua;
+    margin left: 200px;
+    margin top: 10px
+    padding: 20px;
+}
+
+.img3{
+    width: 200px;
+    height: 200px;
+    color: rgb(43, 226, 125);
+    margin: 10px;
+    padding: 20px;
+}
+
+.img4{
+    width: 200px;
+    height: 200px;
+    color: brown;
+    margin: 10px;
+    padding: 20px;
+}
